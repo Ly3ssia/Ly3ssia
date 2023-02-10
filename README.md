@@ -12,6 +12,6 @@
 </div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DezzyCode&show_icons=true&theme=dracula&locale=en" alt="DezzyCode"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ly3ssia&show_icons=true&theme=dracula&locale=en" alt="Ly3ssia"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ly3ssia&theme=dracula" alt="DezzyCode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ly3ssia&theme=dracula" alt="Ly3ssia" /></p>
